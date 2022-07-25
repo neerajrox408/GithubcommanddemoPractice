@@ -6,7 +6,7 @@ public class Githubcommandpractice {
 String browser="chrome";
 if(browser=="chrome")
 {
-	System.out.println("browser is true");
+	System.out.println("browser is true okkkkkk");
 }
 
 	}
